@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naterial", "Naterial\Naterial.csproj", "{2D6CDA79-F9A4-4FA5-BEC0-38197FC4097B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naterial.Demo", "Naterial.Demo\Naterial.Demo.csproj", "{509C23F6-6611-4B1F-B7EB-C871EBDC25CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6CDA79-F9A4-4FA5-BEC0-38197FC4097B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6CDA79-F9A4-4FA5-BEC0-38197FC4097B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6CDA79-F9A4-4FA5-BEC0-38197FC4097B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6CDA79-F9A4-4FA5-BEC0-38197FC4097B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509C23F6-6611-4B1F-B7EB-C871EBDC25CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509C23F6-6611-4B1F-B7EB-C871EBDC25CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509C23F6-6611-4B1F-B7EB-C871EBDC25CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509C23F6-6611-4B1F-B7EB-C871EBDC25CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C2A3B3-E6B0-4CDD-BD00-0532E1B9BB34}
+	EndGlobalSection
+EndGlobal
